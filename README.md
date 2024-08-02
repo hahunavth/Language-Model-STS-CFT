@@ -1,6 +1,6 @@
 # Language-Model-STS-CFT
 
-[Paper Coming Soon...] [[Hugging Face 🤗](https://huggingface.co/collections/trapoom555/small-lms-text-embedding-663b3ec87527788a577f6852)]
+[[ArXiv](https://arxiv.org/abs/2408.00690)] [[Hugging Face 🤗](https://huggingface.co/collections/trapoom555/small-lms-text-embedding-663b3ec87527788a577f6852)]
 
 This project aims to improve text embedding of smaller Language Models (LMs) up to 2B parameters using the contrastive fine-tuning technique. Specifically, the InfoNCE loss is utilized as a training objective.
 
